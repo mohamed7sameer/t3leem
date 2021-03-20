@@ -1,0 +1,1 @@
+"use strict";function funExit(){$("#answer-and-note").remove();$("#success").remove();$("#question").hide();$("#home-page").show();$("#home-page .enter").html("");questionsId=[];counter=0;funSectionPage(varGetDataBase)}
